@@ -17,8 +17,8 @@ To get started with the Grams prototype, you will need to have Node.js installed
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/grams-prototype.git
-cd grams-prototype
+git clone https://github.com/grams-dev/prototype.git
+cd prototype
 ```
 
 2. **Install Dependencies**
@@ -60,7 +60,7 @@ We welcome contributions to the Grams Prototype Repository. If you have suggesti
 
 ## Support
 
-For support and further inquiries, please reach out to us at [support@grams.dev](mailto:support@grams.dev).
+For support and further inquiries, please create an issue in the repository.
 
 ## License
 
